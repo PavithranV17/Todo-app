@@ -119,3 +119,9 @@
 .hide{
     display: none !important;
 }
+
+@media (max-width: 400px){
+    .task-manager{
+        min-width: 200px;
+    }
+}
